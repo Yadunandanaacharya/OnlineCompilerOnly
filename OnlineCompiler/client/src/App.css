@@ -1,0 +1,21 @@
+.textarea{
+  height: 300px;
+}
+
+.select-box{
+  margin-bottom: 10px;
+}
+
+/* in this area we write all our codes*/
+.container{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+height: 100vh;
+text-align: center;
+background-image: url('https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+background-size: cover;
+background-position: center;
+font-family: 'Roboto',sans-serif;
+}
